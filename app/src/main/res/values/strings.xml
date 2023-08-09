@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="error_icon_description">Failed</string>
+    <string name="try_again">Try Again</string>
+</resources>
